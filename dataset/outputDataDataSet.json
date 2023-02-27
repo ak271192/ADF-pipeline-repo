@@ -1,0 +1,23 @@
+{
+	"name": "outputDataDataSet",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "linkedservice_stoaredemomonk271192",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "data.csv",
+				"folderPath": "output",
+				"container": "adfdemo"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
