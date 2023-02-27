@@ -1,0 +1,9 @@
+{
+	"name": "amit-scala-adf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e15745be-d5b2-49ac-8ea3-724f212cd4a4",
+		"tenantId": "e50ebc84-76f2-4636-b550-c3f7abc924af"
+	}
+}
