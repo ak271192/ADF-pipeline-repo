@@ -1,0 +1,9 @@
+{
+	"name": "amit-adf-practice",
+	"location": "eastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9a44c219-6895-49b1-bb72-8edf39477433",
+		"tenantId": "e50ebc84-76f2-4636-b550-c3f7abc924af"
+	}
+}
